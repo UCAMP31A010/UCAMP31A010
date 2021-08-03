@@ -2,7 +2,7 @@
 
 ## 소개
 
-![KakaoTalk_20210802_130845311] <img scr ="C:\Users\sangh\OneDrive\문서\카카오톡 받은 파일" width="700" height="370">
+<img src ="https://user-images.githubusercontent.com/79523204/127986126-80444510-04ae-468f-b87a-6227429337d3.jpg" width="30%" height="30%">
 
 
 * 1 
